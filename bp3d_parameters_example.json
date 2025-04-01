@@ -1,0 +1,21 @@
+{
+    "gui_dir": "GUI/projects/directory",
+    "site": "sitename",
+    "user": "user",
+    "password": "password",
+    "wind_speed": [
+        4,
+        8,
+        2
+    ],
+    "wind_direction": [
+        210,
+        225,
+        240
+    ],
+    "fuel_moisture": [
+        0.06,
+	0.08,
+        0.1
+    ]
+}
